@@ -1,0 +1,25 @@
+﻿  battle.cpp
+C:\text_rpg_2\text_rpg_2\battle.cpp(11,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\battle.cpp(19,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\battle.cpp(27,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\battle.cpp(51,124): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\battle.cpp(55,49): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\battle.cpp(58,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  event.cpp
+  exp.cpp
+  inventory.cpp
+  save_load_data.cpp
+C:\text_rpg_2\text_rpg_2\save_load_data.cpp(76,21): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\text_rpg_2\text_rpg_2\save_load_data.cpp(76,21): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'float *'입니다.
+  stat.cpp
+C:\text_rpg_2\text_rpg_2\stat.cpp(5,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\stat.cpp(85,10): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\stat.cpp(87,10): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\stat.cpp(105,10): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\stat.cpp(107,10): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  text_rpg_2.cpp
+C:\text_rpg_2\text_rpg_2\text_rpg_2.cpp(36,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\text_rpg_2\text_rpg_2\text_rpg_2.cpp(197,26): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+  코드를 생성하고 있습니다...
+C:\text_rpg_2\text_rpg_2\inventory.cpp(97): warning C4715: 'User::GetData': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  text_rpg_2.vcxproj -> C:\text_rpg_2\x64\Debug\text_rpg_2.exe
